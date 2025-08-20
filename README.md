@@ -10,7 +10,7 @@ This project was developed during the UGM DCSE Summer Course 2025 and received a
 
 ## 🚨 Problem Statement
 
-Traditional SIEM tools rely heavily on manual rule creation and human analysis, making them less effective against sophisticated or novel cyberattacks. With increasing volumes of user activity data, analysts need automated, intelligent systems to detect fraud and anomalies in real time.
+Traditional SIEM tools rely heavily on manual rule creation and human analysis, making them less effective against sophisticated or novel cyberattacks. With increasing volumes of user activity data, analysts need automated, intelligent systems to detect fraud and anomalies in real time. 
 
 ## 🎯 Objectives
 
