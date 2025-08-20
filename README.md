@@ -25,13 +25,15 @@ Deliver an intuitive SIEM dashboard inspired by industry tools like Splunk.
 ## 🛠️ Technical Approach
 1. Machine Learning Pipeline
 
-Dataset: 6.3M financial transactions (Kaggle Security Information and Event Management dataset).
+Dataset: 6.3M financial transactions (Kaggle Security Information and Event Management dataset). --> https://www.kaggle.com/datasets/ibtasamahmad/security-information-and-event-management
 
 Features Used: step, amount, oldbalanceOrg, newbalanceOrig, oldbalanceDest, newbalanceDest.
 
 Model: XGBoost Classifier (optimized with Optuna).
 
 Performance: ~99.9% accuracy, strong fraud detection with minimal false positives.
+
+<img width="1090" height="615" alt="image" src="https://github.com/user-attachments/assets/f9353f76-ef4d-403e-8a5e-168fc85a13f0" />
 
 2. Behavioral Analytics
 
@@ -51,6 +53,8 @@ Concise fraud alerts.
 
 Automated attack timelines for investigations.
 
+<img width="1067" height="582" alt="image" src="https://github.com/user-attachments/assets/ed5b3382-36e8-4331-9df6-e5ce5555fd61" />
+
 4. Visualization & Dashboard
 
 KPIs: Total transactions, fraud count, fraud rate, fraud amount.
@@ -60,6 +64,16 @@ Visuals: Pie chart (account drained vs partial), bar chart (fraud by hour), scat
 Tables: Top offenders, live alerts, fraud drilldown.
 
 UI/UX: Designed in Figma → professional, SOC-friendly, clean, and intuitive.
+
+<img width="948" height="531" alt="image" src="https://github.com/user-attachments/assets/51725863-15b1-4f63-9415-4b2bd6e8c875" />
+
+<img width="929" height="560" alt="image" src="https://github.com/user-attachments/assets/b5dfc52c-39e3-428e-8b2e-bf978a67cdd1" />
+
+<img width="955" height="552" alt="image" src="https://github.com/user-attachments/assets/78910dab-6700-438d-bddd-46c0e88f7b42" />
+
+<img width="970" height="533" alt="image" src="https://github.com/user-attachments/assets/7dc5e0d8-deac-4c7b-b46f-89a3a91e5b64" />
+
+<img width="932" height="549" alt="image" src="https://github.com/user-attachments/assets/cb0aa12c-6b73-41bb-abd7-0850c8ea70ea" />
 
 ## 📊 Prototype
 
